@@ -11,8 +11,26 @@
 
 My digital skills are:
 
-- 🌱 **Python**
-- -🌱 **R**
+- 🌱 **Python: Pandas | Numpy | Matplotlib | Scikit-learn | Seaborn | Statsmodels | TensorFlow & Keras | SARIMAX | SciPy | Lightgbm | XGBoost**
+- 🌱 **R**
+- 🌱 **MSSQL**
+- 🌱 **Mathematics(PhD)**
+- 🌱 **Linear Algebra**
+- 🌱 **Optimization**
+- 🌱 **Statistics**
+- 🌱 **Data Analysis**
+- 🌱 **Data Visualization**
+- 🌱 **Feature Engineering**
+- 🌱 **A/B Testing**
+- 🌱 **Time Series**
+- 🌱 **CRM (Customer Relationship Management)**
+- 🌱 **ANN (Artificial Neural Networks)**
+- 🌱 **CNN (Convolutional Neural Networks)**
+- 🌱 **NLP (Natural Language Processing)**
+- 🌱 **Decision Trees**
+- 🌱 **Linux**
+- 🌱 **Git**
+- 🌱 **Crontab**
 
 - 📫 How to reach me **sayinumutsayin@gmail.com**
 
