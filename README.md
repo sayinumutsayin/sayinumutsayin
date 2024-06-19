@@ -32,7 +32,8 @@ My digital skills are:
 - 🌱 **Git**
 - 🌱 **Crontab**
 
-- 📫 How to reach me **sayinumutsayin@gmail.com**
+CONTACT:
+- 📫 Reach me on **sayinumutsayin@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
