@@ -9,7 +9,10 @@
 
 - 🔭 I’m currently working on [Data Science](www.abcdef.com)
 
-- 🌱 I’m currently learning **SQL**
+My digital skills are:
+
+- 🌱 **Python**
+- -🌱 **R**
 
 - 📫 How to reach me **sayinumutsayin@gmail.com**
 
